@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Video Player</string>
+    <string name="videos_permission_needed">Storage permission is needed to show your videos</string>
+    <string name="no_videos_found">No videos found on this device</string>
+</resources>
